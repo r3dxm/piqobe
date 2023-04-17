@@ -1,0 +1,15 @@
+profile
+	profile pic
+	follow btn
+	posts [posts posed by user]
+	
+home- feed
+login
+register
+settings
+explore
+messging
+stories
+
+
+test 4

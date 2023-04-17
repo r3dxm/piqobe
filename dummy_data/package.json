@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongoose": "^6.6.0",
+    "mongoose-dummy": "^1.0.8"
+  }
+}
